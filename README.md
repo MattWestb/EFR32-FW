@@ -4,7 +4,7 @@
 Configuration Parameter | Value | Pin/Pad
 -- | -- | --
 Module | IKEA | ICC-A-1
-Part | EFR32MG1P132F256GM32
+Part | EFR32MG1P132F256IM32
 Version | EZSP 6.9.2.0
 Status |  Untested
 Address Table Size | 8 | ST
