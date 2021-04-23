@@ -68,7 +68,7 @@ SWO | PF2 | 9
 Reset | Rest | 10
 BLP | BLP | -
 
-## TUYA ZBGW
+## TUYA ZS3L
 
 Configuration Parameter | Value | Pin/Pad
 -- | -- | --
