@@ -80,7 +80,6 @@ Address Table Size | 8 | ST
 Child Table Size | 32 | ST
 Source Routes | 7 | ST
 CTUNE value | -1 | ST
-DC-DC | True | NS
 VCC | 3.3 V | 1
 GND | GND| 2
 RX NCP / VCom | PA06 | 3
