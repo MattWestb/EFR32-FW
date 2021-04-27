@@ -16,13 +16,13 @@ VCC | 3.3 V  | 1
 GND | GND| 2
 RX NCP / VCom | PB15 | 3
 TX NCP / VCom | PB14 | 4
-PTI Data | PC10 | 5
-PTI Frame | PC11 | 6
+PTI Frame | PC10 | 5
+PTI Data | PC11 | 6
 SWCLK | PF0 | 7
 SWDIO | PF1 | 8
 SWO | PF2 | 9
 Reset | Rest | 10
-BLP | BLP | -
+BLP | PA0 | -
 
 
 ## Markus EZSP
@@ -60,8 +60,8 @@ VCC | 3.3 V | 1
 GND | GND| 2
 RX NCP / VCom | PA01 | 3
 TX NCP / VCom | PA00 | 4
-PTI Data | PB12 | 5
-PTI Frame | PB13 | 6
+PTI Frame | PB12 | 5
+PTI Data | PB13 | 6
 SWCLK | PF0 | 7
 SWDIO | PF1 | 8
 SWO | PF2 | 9
@@ -84,8 +84,8 @@ VCC | 3.3 V | 1
 GND | GND| 2
 RX NCP / VCom | PA06 | 3
 TX NCP / VCom | PA05 | 4
-PTI Data | PD01 | 5
-PTI Frame | PD00 | 6
+PTI Frame | PD01 | 5
+PTI Data | PD00 | 6
 SWCLK | PA01 | 7
 SWDIO | PA02 | 8
 SWO | NA | 9
