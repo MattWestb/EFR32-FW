@@ -35,10 +35,12 @@ Address Table Size | 8
 Child Table Size | 32
 Source Routes | 7
 CTUNE value | 128
-TX | PA00
-RX | PA01
-CTS | PC00
-RTS | PC01
+TX | PB01
+RX | PB00
+CTS | ?
+RTS | ?
+BTL | PA00
+LED | PC00 
 Part | EFR32MG21A020F768IM32
 Version | EZSP 6.9.2.0
 Status |  Untested
