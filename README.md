@@ -39,7 +39,7 @@ TX | PB01
 RX | PB00
 CTS | ?
 RTS | ?
-BTL | PA00
+BTL | PA00 (Low = BTL boot)
 LED | PC00 
 Part | EFR32MG21A020F768IM32
 Version | EZSP 6.9.2.0
