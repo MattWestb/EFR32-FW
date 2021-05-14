@@ -87,6 +87,8 @@ Green Power Proxy Table Size | 100 | ST
 Green Power Sink Table Size | 100 | ST
 NVM3 Flash pPages | 12 | NS
 CTUNE value | -1 | ST
+PTI | Enabled
+VCom | Enabled
 VCC | 3.3 V | 1
 GND | GND| 2
 RX NCP / VCom | PA06 | 3
