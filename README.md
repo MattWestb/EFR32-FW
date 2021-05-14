@@ -83,6 +83,9 @@ Status |  Untested
 Address Table Size | 8 | ST
 Child Table Size | 32 (CH = 0) | ST / NS
 Source Routes | 7 | ST
+Green Power Proxy Table Size | 100 | ST
+Green Power Sink Table Size | 100 | ST
+NVM3 Flash pPages | 12 | NS
 CTUNE value | -1 | ST
 VCC | 3.3 V | 1
 GND | GND| 2
