@@ -9,7 +9,7 @@ Module | tuya | ZS3L
 Part | EFR32MG21A020F768IM32-B
 Version | EZSP 6.9.2.0
 Type | NCP-NVM3-GP-SW(-CH)
-Status |  [Untested](MG21LD)
+Status | Untested
 Address Table Size | 8 | ST
 Child Table Size | 32 (CH = 0) | ST / NS
 Source Routes | 7 | ST
