@@ -81,7 +81,7 @@ Version | EZSP 6.9.2.0
 Type | NCP-GP-SW(-CH)
 Status |  Untested
 Address Table Size | 8 | ST
-Child Table Size | 32 (CH = 0) | ST
+Child Table Size | 32 (CH = 0) | ST / NS
 Source Routes | 7 | ST
 CTUNE value | -1 | ST
 VCC | 3.3 V | 1
