@@ -95,6 +95,6 @@ PTI Frame | PD01 | 5
 PTI Data | PD00 | 6
 SWCLK | PA01 | 7
 SWDIO | PA02 | 8
-SWO | NA | 9
+SWO | PA03 | 9
 Reset | Rest | 10
 BLP | PC02 | -
