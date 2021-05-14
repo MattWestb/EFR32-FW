@@ -24,3 +24,7 @@ SWDIO | PF1 | 8
 SWO | PF2 | 9
 Reset | Rest | 10
 BLP | PA0 | -
+
+
+ZigbeeBillyRouter = EZSP 6.7.9.2.0 Router with GP proxy and joining / leaving with pairingg button if being used on one E1743 remote.
+Debug CLI is on the normal RX and TX pins so software leaving and joining as also possible CLI commands.
