@@ -89,7 +89,7 @@ NVM3 Flash Pages | 12 | NS
 Link Key Table Size | 127 | NS
 CTUNE value | -1 | ST
 PTI | Enabled
-VCom | Enabled
+VUART | Enabled
 VCC | 3.3 V | 1
 GND | GND| 2
 RX NCP / VCom | PA06 | 3
