@@ -1,4 +1,4 @@
-MG21 NCP with GP and SW folw control and NVM3.
+ncp-gp-LDMG21.s37 = MG21 NCP with GP and SW folw control and NVM3.
 
 
 ## TUYA ZS3L
