@@ -17,8 +17,8 @@ VCC | 3.3 V  | 1
 GND | GND| 2
 RX NCP / VCom | PB15 | 3
 TX NCP / VCom | PB14 | 4
-PTI Frame | PC11 | 5
-PTI Data | PC10 | 6
+PTI Data | PC10 | 5
+PTI Frame | PC11 | 6
 SWCLK | PF0 | 7
 SWDIO | PF1 | 8
 SWO | PF2 | 9
