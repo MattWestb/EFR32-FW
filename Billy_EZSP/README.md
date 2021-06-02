@@ -8,7 +8,7 @@ Module | IKEA | ICC-A-1
 Part | EFR32MG1P132F256IM32
 Version | EZSP 6.9.2.0
 Type | NCP SW
-Status |  Untested
+Status |  Un / minimal tested
 Address Table Size | 8 | ST
 Child Table Size | 32 | ST
 Source Routes | 7 | ST
