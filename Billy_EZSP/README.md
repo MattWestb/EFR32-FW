@@ -1,6 +1,7 @@
 IKEA ICC-A-1 module "Biilly EZSP"
 
 ## Billy EZSP
+Standard pin/pad/setting for NCP.
 Configuration Parameter | Value | Pin/Pad
 -- | -- | --
 Module | IKEA | ICC-A-1
