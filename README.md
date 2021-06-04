@@ -49,6 +49,8 @@ SWDIO | PF1 | 8
 SWO | PF2 | 9
 Reset | Rest | 10
 BLP | BLP | -
+CTS | PA5 | -
+RTS | PA4 | -
 
 ## TUYA ZS3L
 
