@@ -27,7 +27,7 @@ Reset | Rest | 10
 BLP | PA0 | -
 
 
-ZigbeeBillyRouter = EZSP 6.9.2.0 Router with joining / leaving with pairingg button if being used on one E1743 remote.  
+ZigbeeBillyRouter = EZSP 6.9.2.0 Router with joining / leaving with pairing button if being used on one E1743 remote.  
 Debug CLI is on the normal RX and TX pins so software leaving and joining is also possible CLI commands.  
 PTI is enabled if running on havrdware that have this pads / pins.  
 Button funktion:
