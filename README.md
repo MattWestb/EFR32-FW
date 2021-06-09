@@ -2,18 +2,23 @@
 
 ## Billy EZSP
 
-[IKEA ICC-A-1](Billy_EZSP/README.md).
-
+[Billy EZSP](Billy_EZSP/README.md).  
+Using the IKEA ICC-A-1 module.
 
 ## Markus EZSP
 
+[Markus EZSP](Markus_EZSP/README.md).  
+Usinng the Silabs MG21 module.
+
 ## Soff EZSP
 
-[SonOff ZBB](Soff_EZSP/README.md).
+[SonOff ZBB](Soff_EZSP/README.md).  
+Using the SM-013 module. 
 
 ## TUYA ZBGW
 
-[TUYA ZBGW](TUYA_ZBGW/README.md).
+[TUYA ZBGW](TUYA_ZBGW/README.md).  
+Using the TYZS4 module in the ZBGW.
 
 ## TUYA ZS3L
 
