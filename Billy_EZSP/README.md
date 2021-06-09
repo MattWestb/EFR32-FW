@@ -1,4 +1,4 @@
-IKEA ICC-A-1 module "Biilly EZSP"
+IKEA ICC-A-1 module "Billy EZSP"
 
 ## Billy EZSP
 Standard pin/pad/setting for NCP.
