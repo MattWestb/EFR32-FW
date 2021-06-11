@@ -1,4 +1,5 @@
 # EFR32-FW
+EFFR32 dev firmware, use on own risk !!!
 
 ## [Billy EZSP](Billy_EZSP/README.md).  
 Using the IKEA ICC-A-1 module.
