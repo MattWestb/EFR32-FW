@@ -8,11 +8,11 @@ Configuration Parameter | Value | Pin/Pad
 Module | tuya | ZS3L
 Part | EFR32MG21A020F768IM32-B
 Version | EZSP 6.9.2.0 / 6.10.0.0
-Type | NCP-NVM3-GP-SW
+Type | NCP-NVM3-GP-SW / NCP-NVM3-GP-SW-10
 Status | Untested
-Address Table Size | 32 | NT
+Address Table Size | 8 / 32 | ST / NT
 Child Table Size | 32 | ST
-Source Routes | 100 | NT
+Source Routes | 7 / 100 | ST / NT
 Green Power Proxy Table Size | 100 | ST
 Green Power Sink Table Size | 100 | ST
 NVM3 Flash Pages | 12 | NS
