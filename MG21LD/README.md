@@ -1,4 +1,5 @@
-ncp-gp-LDMG21.s37 = MG21 NCP with GP and SW folw control and NVM3.
+ncp-gp-LDMG21-92.s37 = MG21 NCP with GP and SW folw control and NVM3 EZSP 6.9.2.0.  
+ncp-gp-LDMG21-10.s37 = MG21 NCP with GP and SW folw control and NVM3 EZSP 6.10.0.0.
 
 
 ## TUYA ZS3L
