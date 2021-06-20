@@ -15,4 +15,4 @@ Using the TYZS4 module in the ZBGW.
 
 ## [TUYA ZS3L Modul](MG21LD/README.md).
 
-## [Branding EFR32 devices](BrandingEFR32/README.md)
+## ["Branding" EFR32 devices](BrandingEFR32/README.md).
