@@ -32,3 +32,9 @@ SWDIO | PA02 | 8
 SWO | PA03 | 9
 Reset | Rest | 10
 BLP | PC02 | -
+
+
+First out :-))
+```
+EmberZNet version: 6.10.0.0 build 169
+```
