@@ -18,4 +18,4 @@ BTL | PA00 (Low = BTL boot)
 LED | PC00 
 
 SonOff ZBB and USB dongle can using the same firmware but the ZBB is standard locked and need one signed firmware if not flashing one new bootloadre with SWD.  
-Both have large problems with hardware and the cip / module is not clibrated from the factory and need patching the firware with CTune for working.
+Both have large problems with hardware and the chip / module is not clibrated from the factory and need patching the firware with CTune for working.
