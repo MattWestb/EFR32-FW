@@ -6,12 +6,13 @@ Configuration Parameter | Value | Pin/Pad
 -- | -- | --
 Module | IKEA | ICC-A-1
 Part | EFR32MG1P132F256IM32
-Version | EZSP 6.9.2.0
-Type | NCP SW
+Version | EZSP 6.9.2.0 / 6.10.0.0
+Type | NCP SW / NCP GP Multirail NVM3
 Status |  Un / minimal tested
-Address Table Size | 8 | ST
-Child Table Size | 32 | ST
-Source Routes | 7 | ST
+Address Table Size | 8 / 100 | ST / NS
+Child Table Size | 32 / 16 | ST / NS
+Source Routes | 7 / 64 | ST / NS
+Link Key Table Size	| 127	| NS
 CTUNE value | -1 | ST
 DC-DC | True | NS
 VCC | 3.3 V  | 1
