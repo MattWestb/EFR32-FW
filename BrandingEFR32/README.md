@@ -38,7 +38,7 @@ The same shall working with this commands for appending the token to one firmwar
 
 Only putting your parameters for your chip and the in and output file.  
 
-Editing: Its looks its only possible using the "flash" or convert s37 to s37 fils and adding the tokenss but to GBL is not working and if having one s37 file with tokens and converting / craating one GBL its only taking the app and not the extra data for the tokens.
+Editing: Its looks its only possible using the "flash" or convert s37 to s37 fils and adding the tokens but to GBL is not working and if having one s37 file with tokens and converting / craating one GBL its only taking the app and not the extra data for the tokens.
 I think that is made for not eing possible "streeling" devices without having hw access to them (= SWD flashing).
 
 Alos if you is having one IKEA device hockedup you shall dumping the user airia that can being used for "transforming" one device if you like.  
