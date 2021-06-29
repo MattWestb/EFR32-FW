@@ -42,4 +42,4 @@ Editing: Its looks its only possible using the "flash" or "convert" s37 to s37 f
 I think that is made for not being possible "streeling" devices without having hw access to them (= SWD flashing).
 
 Alos if you is having one IKEA device hockedup you shall dumping the user airia that can being used for "transforming" one device if you like.  
-The main firmware can beeing restored from one OTA filee but not the user data so all dups of its is wery wellcome in the comunity for firmware transforming.
+The main firmware can beeing restored from one OTA filee but not the user data so all dumps of its is wery wellcome in the comunity for firmware transforming.
