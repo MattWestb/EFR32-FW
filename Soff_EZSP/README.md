@@ -34,4 +34,4 @@ Not configured: LED and Button then its for the Sonoff ZBB that is flashed with 
 Its is using NVM3 so shall being flashed with S37 file for alocating the NVM3 aria OK ("normal" is using SIMM2 key storage and is making one new self if needed).  
 This is very exprimental and 110% only for devs then six ten is having new toolshange and have many new bugs !!!  
    
-EZSP 6.10.0.0 (six ten) is having one extra fix for CTune problems on MG21 devices so is interesting if it caan helping with the "Sonoff problems".
+EZSP 6.10.0.0 (six ten) is having one extra fix for CTune problems on MG21 devices so is interesting if it can helping with the "Sonoff problems".
