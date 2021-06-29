@@ -1,4 +1,4 @@
-## TUYA ZBGW
+## TUYA TYGWZ01
 
 Configuration Parameter | Value | Pin/Pad
 -- | -- | --
