@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ASCII"?>
+<device:XMLDevice xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:device="http://www.silabs.com/ss/hwconfig/document/device.ecore" name="EFR32MG21A020F768IM32" partId="mcu.arm.efr32.mg21.efr32mg21a020f768im32" contextId="com.silabs.sdk.stack.super:3.2.0._1284189448">
+  <mode name="DefaultMode">
+    <property object="BUTTON" propertyId="BUTTON.showadvanced.BOOL" value="1"/>
+    <property object="CMU" propertyId="ABPeripheral.included" value="true"/>
+    <property object="CMU" propertyId="CMU.BSP_CLK_HFXO_PRESENT.BOOL" value="1"/>
+    <property object="CMU" propertyId="CMU.HAL_CLK_EM23CLK_SOURCE.ENUM" value="HAL_CLK_LFCLK_SOURCE_LFRCO"/>
+    <property object="CMU" propertyId="CMU.HAL_CLK_EM4CLK_SOURCE.ENUM" value="HAL_CLK_LFCLK_SOURCE_LFRCO"/>
+    <property object="CMU" propertyId="CMU.HAL_CLK_HFCLK_SOURCE.ENUM" value="HAL_CLK_HFCLK_SOURCE_HFXO"/>
+    <property object="CMU" propertyId="CMU.HAL_CLK_RTCCCLK_SOURCE.ENUM" value="HAL_CLK_LFCLK_SOURCE_LFRCO"/>
+    <property object="DefaultMode" propertyId="mode.diagramLocation" value="100, 100"/>
+    <property object="GPIO" propertyId="ABPeripheral.included" value="true"/>
+    <property object="I2C0" propertyId="I2C.showadvanced.BOOL" value="1"/>
+    <property object="I2C1" propertyId="I2C.showadvanced.BOOL" value="1"/>
+    <property object="LED" propertyId="ABPeripheral.included" value="true"/>
+    <property object="LED" propertyId="LED.showadvanced.BOOL" value="1"/>
+    <property object="PA" propertyId="ABPeripheral.included" value="true"/>
+    <property object="PTI" propertyId="ABPeripheral.included" value="true"/>
+    <property object="SERIAL" propertyId="ABPeripheral.included" value="true"/>
+    <property object="SERIAL" propertyId="SERIAL.showadvanced.BOOL" value="1"/>
+    <property object="SPIDISPLAY" propertyId="SPIDISPLAY.HAL_SPIDISPLAY_EXTCOMIN_CALLBACK.STRING" value="rtcIntCallbackRegister"/>
+    <property object="SPIDISPLAY" propertyId="SPIDISPLAY.HAL_SPIDISPLAY_EXTCOMIN_USE_CALLBACK.BOOL" value="1"/>
+    <property object="UARTNCP" propertyId="ABPeripheral.included" value="true"/>
+    <property object="USART0" propertyId="USART.HAL_USART_FLOW_CONTROL.ENUM" value="HAL_USART_FLOW_CONTROL_HWUART"/>
+    <property object="USART0" propertyId="USART.HAL_USART_RXSTART.INT" value="16"/>
+    <property object="USART0" propertyId="USART.HAL_USART_RXSTOP.INT" value="16"/>
+    <property object="USART0" propertyId="USART.HAL_USART_RX_QUEUE_SIZE.INT" value="128"/>
+    <property object="USART0" propertyId="USART.HAL_USART_TX_QUEUE_SIZE.INT" value="128"/>
+    <property object="USART0" propertyId="USART.showadvanced.BOOL" value="1"/>
+    <property object="USART1" propertyId="USART.HAL_USART_FLOW_CONTROL.ENUM" value="HAL_USART_FLOW_CONTROL_HWUART"/>
+    <property object="USART1" propertyId="USART.HAL_USART_RXSTART.INT" value="16"/>
+    <property object="USART1" propertyId="USART.HAL_USART_RXSTOP.INT" value="16"/>
+    <property object="USART1" propertyId="USART.HAL_USART_RX_QUEUE_SIZE.INT" value="128"/>
+    <property object="USART1" propertyId="USART.HAL_USART_TX_QUEUE_SIZE.INT" value="128"/>
+    <property object="USART1" propertyId="USART.showadvanced.BOOL" value="1"/>
+    <property object="USART2" propertyId="USART.HAL_USART_FLOW_CONTROL.ENUM" value="HAL_USART_FLOW_CONTROL_HWUART"/>
+    <property object="USART2" propertyId="USART.HAL_USART_RXSTART.INT" value="16"/>
+    <property object="USART2" propertyId="USART.HAL_USART_RXSTOP.INT" value="16"/>
+    <property object="USART2" propertyId="USART.HAL_USART_RX_QUEUE_SIZE.INT" value="128"/>
+    <property object="USART2" propertyId="USART.HAL_USART_TX_QUEUE_SIZE.INT" value="128"/>
+    <property object="USART2" propertyId="USART.showadvanced.BOOL" value="1"/>
+    <property object="VCOM" propertyId="ABPeripheral.included" value="true"/>
+    <property object="VUART" propertyId="ABPeripheral.included" value="true"/>
+    <property object="VUART" propertyId="VUART.HAL_VUART_TYPE.ENUM" value="HAL_VUART_TYPE_SWO"/>
+    <property object="WDOG" propertyId="ABPeripheral.included" value="true"/>
+  </mode>
+  <modeTransition>
+    <property object="RESET &#x2192; DefaultMode" propertyId="modeTransition.source" value="RESET"/>
+    <property object="RESET &#x2192; DefaultMode" propertyId="modeTransition.target" value="DefaultMode"/>
+  </modeTransition>
+</device:XMLDevice>
