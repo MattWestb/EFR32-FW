@@ -38,6 +38,6 @@ Button funktion:
 ## Six ten
 Mullti rail with GP (50 devices) and NVM3 with 127 TC link keys.
 
-## ZCB 6.9.2.0
+## ZBCB 6.9.2.0
 One Zigbee Control Bridge with EP 1 is one Control Bridge and EP 2 is one Color Dimmebal Light.
 Using standard Billy RX and TX with full CLI and help and the light can being added to more groups and you is also recieving the group commands being sent to the group and broadcast to bonded group / device or unicat to device or group cast of commands from the CLI to the mesh :-)).
