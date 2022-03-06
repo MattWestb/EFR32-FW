@@ -38,3 +38,35 @@ First out :-))
 ```
 EmberZNet version: 6.10.0.0 build 169
 ```
+## rcp-uart-802154
+Addnig one working rcp for the ZS3L.  
+Pinout is standard tuya so RX = PA06 and TX = PA05.  
+Use socket://192.168.2.64:9999 (with your HAS IP address) and 115200 baud in the addon.  
+HA is up and running with one 
+```
+Device info
+LEPTITER Recessed spot light
+by IKEA of Sweden
+```
+Mor testing is comming and if going well all my test networks is being moved if all devices is liking the new coordinator.  
+Little OT info (little patched):
+```
+IPv6:LocalAddress
+fd11:XX:0:0:8cc0:XXXX:6685:7f35
+
+IPv6:MeshLocalAddress
+fdce:XXXX:604a:XXXX:2706:XXXX:c718:62ec
+
+IPv6:MeshLocalPrefix
+fdce:XXXX:604a:XXXX:
+
+Network:Name
+OpenThreadMWTest
+
+OpenThread:Version
+OPENTHREAD/9e70b13f-dirty; POSIX; Feb 24 2022 14:27:39
+
+RCP:Version
+SL-OPENTHREAD/2.0.1.0_GitHub-55af6ce2c; EFR32; Mar 6 2022 11:11:28
+```
+Sadly my nighburs dont have any OT devices online so im being very alone ;-((
