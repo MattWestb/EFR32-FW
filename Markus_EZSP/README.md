@@ -23,12 +23,12 @@ Force bootloader pin PD01 is defined but noramaly not needed then using software
 Configuration Parameter | Value | Pin/Pad
 -- | -- | --
 Module | Silabs| MGM210LA22JNF2
-Version | EZSP 6.10.0.0
-Type | NCP-NVM3-GP-SW-6.10.3.0
+Version | EZSP | 6.10.3.0
+Type | NCP-NVM3-GP-SW
 Status | Minimal tested
-Address Table Size |32 | NT
+Address Table Size |32 | NS
 Child Table Size | 32 | ST
-Source Routes |100 | NT
+Source Routes |100 | NS
 Green Power Proxy Table Size | 100 | ST
 Green Power Sink Table Size | 100 | ST
 NVM3 Flash Pages | 12 | NS
@@ -37,4 +37,7 @@ CTUNE value | -1 | ST
 PTI | Enabled
 VUART | Enabled
   
-Bootloaader and NCP is minmal tested but looks working OK.
+Bootloaader and NCP is minmal tested but looks working OK.  
+  
+I have cooking one RCP for Zigbee and OpenThread multiprotocol add-on but i was upgrading my Armbian and have broken the install so i cant  testing it at all :-(((   
+Also its looks Silabs have not implanted software flow controll and also messing with  the EZSP install for the module so i cant getting one EZSP 7 working (its working then its alocating NVM in the flash but no comunication with the host if can getting it compilled).
