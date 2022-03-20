@@ -17,4 +17,24 @@ My pinout is the same as Billy:
 | 10     | 11        | RESET      | Target reset | 
 | NA     | 9         | PD01       | Boot Loader Pin |
 
-Force bootloader pin PD01 is defined but noramaly not needed then using software command and then using WSTK for debricking the chip is only the resert pin needed.
+Force bootloader pin PD01 is defined but noramaly not needed then using software command and then using WSTK for debricking the chip is only the resert pin needed.  
+  
+### Firmware settings.
+Configuration Parameter | Value | Pin/Pad
+-- | -- | --
+Module | Silabs| MGM210LA22JNF2
+Version | EZSP 6.10.0.0
+Type | NCP-NVM3-GP-SW-6.10.3.0
+Status | Minimal tested
+Address Table Size |32 | NT
+Child Table Size | 32 | ST
+Source Routes |100 | NT
+Green Power Proxy Table Size | 100 | ST
+Green Power Sink Table Size | 100 | ST
+NVM3 Flash Pages | 12 | NS
+Link Key Table Size | 127 | NS
+CTUNE value | -1 | ST
+PTI | Enabled
+VUART | Enabled
+  
+Bootloaader and NCP is minmal tested but looks working OK.
