@@ -42,7 +42,7 @@ Mullti rail with GP (50 devices) and NVM3 with 127 TC link keys.
 One Zigbee Control Bridge with EP 1 is one Control Bridge and EP 2 is one Color Dimmebal Light.
 Using standard Billy RX and TX with full CLI and help and the light can being added to more groups and you is also recieving the group commands being sent to the group and broadcast to bonded group / device or unicat to device or group cast of commands from the CLI to the mesh :-)).  
  
-## Billy1 rcp 802154
+## Billy rcp 802154
 Adding Billy1-rcp-uart-802154.s37 with standard pining but only v.com no PTI and SWD untill have testing its working OK.  
 You need haveing one working bootloader flashed o the RCP is not starting.  
 Minimal tested (5 min with forming one network and looking for status if the system) ! ! !
