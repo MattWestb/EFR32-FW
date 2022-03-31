@@ -45,5 +45,5 @@ Using standard Billy RX and TX with full CLI and help and the light can being ad
 ## Billy rcp 802154
 Adding Billy1-rcp-uart-802154.s37 with standard pining but only v.com no PTI and SWD untill have testing its working OK.  
 You need haveing one working bootloader flashed o the RCP is not starting.  
-Minimal tested (5 min with forming one network and looking for status if the system) ! ! !  
+Minimal tested (5 min with forming one network and looking for status of the system) ! ! !  
 Updated version Billy1-rcp-uart-802154B.s37 with SWD and PTI added and is not tested but its booting OK in HA addon.
