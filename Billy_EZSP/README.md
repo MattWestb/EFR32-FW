@@ -46,4 +46,12 @@ Using standard Billy RX and TX with full CLI and help and the light can being ad
 Adding Billy1-rcp-uart-802154.s37 with standard pining but only v.com no PTI and SWD untill have testing its working OK.  
 You need haveing one working bootloader flashed o the RCP is not starting.  
 Minimal tested (5 min with forming one network and looking for status of the system) ! ! !  
-Updated version Billy1-rcp-uart-802154B.s37 with SWD and PTI added and is not tested but its booting OK in HA addon.
+Updated version Billy1-rcp-uart-802154B.s37 with SWD and PTI added and is not tested but its booting OK in HA addon.  
+So RCP looks working OK with Zigbeed and OTBR. EZSP is 7.0.2.0 and is having one LIDL E14 RGBWW light and the OTBR is having getting one tuya / LIDL MG21 OTBR joined so both looks wrking OK
+
+![BillyRCP01](https://user-images.githubusercontent.com/49618193/161375800-ae4260cf-14f1-417b-b294-d199a8eaa635.PNG)
+And Billy is running EZSP 7 !!!
+
+![Seven](https://user-images.githubusercontent.com/49618193/161375855-3f13dfa8-e381-4d16-95f6-347d1f283815.png)
+Was readeing little more and its looks SW flow controll is not implanted in GSDK 4 and in the end i think its useless running it on the SOC / chip then its only having 256K flash.  
+More testig  is needed and also getting RCP working on Markus.
