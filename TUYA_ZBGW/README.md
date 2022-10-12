@@ -4,8 +4,8 @@ Configuration Parameter | Value | Pin/Pad
 -- | -- | --
 Module | tuya | TYZS4
 Part | EFR32MG1B232F256GM48-D
-Version | EZSP 6.9.2.0 / 6.10.0.0
-Status |  Untested / Untested
+Version | EZSP 6.10.0.0
+Status |  Minimal tested
 Address Table Size | 8 | ST
 Child Table Size | 32 | ST
 Source Routes | 7 | ST
