@@ -43,11 +43,10 @@ One Zigbee Control Bridge with EP 1 is one Control Bridge and EP 2 is one Color 
 Using standard Billy RX and TX with full CLI and help and the light can being added to more groups and you is also recieving the group commands being sent to the group and broadcast to bonded group / device or unicat to device or group cast of commands from the CLI to the mesh :-)).  
  
 ## Billy rcp 802154
-Adding Billy1-rcp-uart-802154.s37 with standard pining but only v.com no PTI and SWD untill have testing its working OK.  
-You need haveing one working bootloader flashed o the RCP is not starting.  
-Minimal tested (5 min with forming one network and looking for status of the system) ! ! !  
-Updated version Billy1-rcp-uart-802154B.s37 with SWD and PTI added and is not tested but its booting OK in HA addon.  
-So RCP looks working OK with Zigbeed and OTBR. EZSP is 7.0.2.0 and is having one LIDL E14 RGBWW light and the OTBR is having getting one tuya / LIDL MG21 OTBR joined so both looks wrking OK
+Billy-rcp-uart-802154-412-115200.s37 with standard pining but only v.com no PTI and no flow control is working OK.  
+You need haveing one working bootloader flashed or the RCP is not starting that also included inthe zip file with 230400 and 460800 versions.    
+
+
 
 ![BillyRCP01](https://user-images.githubusercontent.com/49618193/161375800-ae4260cf-14f1-417b-b294-d199a8eaa635.PNG)
 And Billy is running EZSP 7 !!!
