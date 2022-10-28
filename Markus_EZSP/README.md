@@ -9,8 +9,8 @@ My pinout is the same as Billy:
 | 2      | GND       | GND        | GND         |
 | 3      | 7         | PC01       | RX          |
 | 4      | 8         | PC00       | TX          |
-| 5      | 18        | PC05       | PTI Frame / Sync   |
-| 6      | 17        | PC04       | PTI Dout / Data    |
+| 5      | 18        | PC05       | PTI Frame / Sync / RTS  |
+| 6      | 17        | PC04       | PTI Dout / Data / CTS  |
 | 7      | 1         | PA1        | SWCLK       |
 | 8      | 2         | PA2        | SWDIO       |
 | 8      | 3         | PA3        | SWO         |
