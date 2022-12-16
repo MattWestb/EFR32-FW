@@ -19,8 +19,8 @@ VCC | 3.3 V  | 1
 GND | GND| 2
 RX NCP / VCom | PB15 | 3
 TX NCP / VCom | PB14 | 4
-PTI Data | PC10 | 5
-PTI Frame | PC11 | 6
+PTI Frame / CTS | PC10 | 5
+PTI Data / RTS | PC11 | 6
 SWCLK | PF0 | 7
 SWDIO | PF1 | 8
 SWO | PF2 | 9
@@ -54,4 +54,11 @@ And Billy is running EZSP 7 !!!
 
 ![Seven](https://user-images.githubusercontent.com/49618193/161375855-3f13dfa8-e381-4d16-95f6-347d1f283815.png)
 Was readeing little more and its looks SW flow controll is not implanted in GSDK 4 and in the end i think its useless running it on the SOC / chip then its only having 256K flash.  
-More testig  is needed and also getting RCP working on Markus.
+More testig  is needed and also getting RCP working on Markus.  
+   
+ RCP 4.2.0.0 uploaded with all baudrate and with  HW and without fllow control.
+ I have testing 11NF, 11 HW and 23HW and working OK with latest HA addon.
+ ```
+ 2022-12-16 12:51:55.659 INFO (MainThread) [bellows.zigbee.application] EmberZNet version: 7.2.0.0 build 0
+```
+So Billy is running seven two :-)))
