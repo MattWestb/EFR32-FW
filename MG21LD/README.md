@@ -69,4 +69,7 @@ OPENTHREAD/9e70b13f-dirty; POSIX; Feb 24 2022 14:27:39
 RCP:Version
 SL-OPENTHREAD/2.0.1.0_GitHub-55af6ce2c; EFR32; Mar 6 2022 11:11:28
 ```
-Sadly my nighburs dont have any OT devices online so im being very alone ;-((
+Sadly my nighburs dont have any OT devices online so im being very alone ;-((  
+  
+RCP 4.2.0.0 updated in Zip file with bootloader. The 23 HW is working OK for my with the latest HA addon and ZHA.
+
