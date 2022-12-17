@@ -10,11 +10,11 @@ Usinng the Silabs MG21 module.
 ## [SonOff ZBB](Soff_EZSP/README.md).  
 Using the SM-013 module. 
 
-## [TUYA TYGWZ01](TUYA_ZBGW/README.md).  
+## [TUYA TYGWZ01](tuya_ZBGW/README.md).  
 Using the TYZS4 module in the ZBGW.
 
-## [TUYA ZS3L Modul](tuya-ZS3L/README.md).
+## [TUYA ZS3L Modul](tuya_ZS3L/README.md).
 tuya MG21 module wildly usined in tuya devices and is very nice !!
 
-## ["Branding" EFR32 devices](BrandingEFR32/README.md).
+## ["Branding" EFR32 devices](Branding_EFR32/README.md).
 Adding manufactur tocken with manufactur and board name in the device.
