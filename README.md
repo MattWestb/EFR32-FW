@@ -14,7 +14,7 @@ Using the SM-013 module.
 Using the TYZS4 module in the ZBGW.
 
 ## [TUYA ZS3L Modul](tuya_ZS3L/README.md).
-tuya MG21 module wildly usined in tuya devices and is very nice !!
+tuya MG21 module wildly used in tuya devices and is very nice !!
 
 ## ["Branding" EFR32 devices](Branding_EFR32/README.md).
 Adding manufactur tocken with manufactur and board name in the device.
