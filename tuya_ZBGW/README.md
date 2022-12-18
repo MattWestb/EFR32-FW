@@ -4,7 +4,7 @@ Configuration Parameter | Value | Pin/Pad
 -- | -- | --
 Module | tuya | TYZS4
 Part | EFR32MG1B232F256GM48-D
-Version | EZSP 6.10.0.0
+Version | EZSP 6.10.3.0
 Status |  Minimal tested
 Address Table Size | 8 | ST
 Child Table Size | 32 | ST
@@ -31,7 +31,7 @@ Mutirail, GP, NVM3, and  Max TC Link keys
 
 Configuration Parameter | Value | 
 -- | -- | 
-AF_PLUGIN_NVM3_FLASH_PAGES | 9
+AF_PLUGIN_NVM3_FLASH_PAGES | 8
 GP_SINK_TABLE_SIZE | 50
 GP_PROXY_TABLE_SIZE | 50
 KEY_TABLE_SIZE | 127
@@ -42,7 +42,7 @@ MAX_END_DEVICE_CHILDREN | 16
 PACKET_BUFFER_COUNT | 64
 BROADCAST_TABLE_SIZE | 32
 NEIGHBOR_TABLE_SIZE | 26
-ADDRESS_TABLE_SIZE | 164
+ADDRESS_TABLE_SIZE | 64
 
 For not running out of flash and RAM is the NVM3 pages and APS_UNICAST_MESSAGE_COUNT redues for fitting in the hardware.  
 Parametes not changed is left at defalt valiue.  
