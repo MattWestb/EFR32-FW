@@ -46,4 +46,7 @@ ADDRESS_TABLE_SIZE | 64
 
 For not running out of flash and RAM is the NVM3 pages and APS_UNICAST_MESSAGE_COUNT redues for fitting in the hardware.  
 Parametes not changed is left at defalt valiue.  
-
+  
+## RCP 4.2.0.0
+Booting OK and can connecting with USF but not tested with HA addon.  
+If getting problem you is likely need erasing the flash (with SWD) and flashing new bootloader and APP for recover so be carful !!
