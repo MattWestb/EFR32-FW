@@ -15,13 +15,13 @@ VCC | 3.3 V | 1
 GND | GND| 2
 RX NCP / VCom | PA01 | 3
 TX NCP / VCom | PA00 | 4
-CTS | PA5 | 5
-RTS | PA4 | 6
-SWCLK | PF0 | 7
-SWDIO | PF1 | 8
-SWO | PF2 | 9
+CTS | PA05 | 5
+RTS | PA04 | 6
+SWCLK | PF00 | 7
+SWDIO | PF01 | 8
+SWO | PF02 | 9
 Reset | Rest | 10
-BLP | PA2 | -
+BLP | PA02 | -
 PTI Frame | PB12 | Ext1
 PTI Data | PB13 | Ext2
 
