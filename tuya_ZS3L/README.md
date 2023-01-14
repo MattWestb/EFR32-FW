@@ -71,5 +71,8 @@ SL-OPENTHREAD/2.0.1.0_GitHub-55af6ce2c; EFR32; Mar 6 2022 11:11:28
 ```
 Sadly my nighburs dont have any OT devices online so im being very alone ;-((  
   
-RCP 4.2.0.0 updated in Zip file with bootloader. The 23 HW is working OK for my with the latest HA addon and ZHA.
-
+RCP 4.2.0.0 updated in Zip file with bootloader. The 23 HW is working OK for my with the latest HA addon and ZHA.  
+  
+`MG21LD-ot-cli-ftd-420.s37` is one Open Thread Fullfuture Device with CLI.  
+Have 115200 HW as comport and have most function i can finded enabled so can play around in the thread mesh network with it.  
+My 3 Billys RCP have getting company:-)))
