@@ -61,4 +61,6 @@ More testig  is needed and also getting RCP working on Markus.
  ```
  2022-12-16 12:51:55.659 INFO (MainThread) [bellows.zigbee.application] EmberZNet version: 7.2.0.0 build 0
 ```
-So Billy is running seven two :-)))
+So Billy is running seven two :-)))  
+  
+Updated RCP to 4.2.1.0 then many bug fixes also for the leaving direct children is in and the 4.1.4.0 is having com problms on all my test installations (CRC failur on sending to the RCP).
