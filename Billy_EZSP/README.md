@@ -63,4 +63,5 @@ More testig  is needed and also getting RCP working on Markus.
 ```
 So Billy is running seven two :-)))  
   
-Updated RCP to 4.2.1.0 then many bug fixes also for the leaving direct children is in and the 4.1.4.0 is having com problms on all my test installations (CRC failur on sending to the RCP).
+Updated RCP to 4.2.1.0 then many bug fixes also for the leaving direct children is in and the 4.1.4.0 is having com problms on all my test installations (CRC failur on sending to the RCP).  
+RCP 4.2.1.0 uploaded, i using 115K NF and 230K HW and looks working OK on Billy.
