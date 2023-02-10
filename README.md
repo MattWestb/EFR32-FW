@@ -21,5 +21,5 @@ Adding manufactur tocken with manufactur and board name in the device.
   
      
 ## [SonOff base device like ZB-GW04](https://github.com/skgsergio/silabs-multiprotocol-firmware-zbgw04-usb).
-Noe user that cooking MultiPAN RCP Firmware for SonOff coordinators and looks working very well and have good instructions for flasning and maintaining the firmware !!!
+One user that cooking MultiPAN RCP Firmware for SonOff coordinators and looks working very well and have good instructions for flasning and maintaining the firmware !!!
      
