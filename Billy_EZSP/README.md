@@ -37,7 +37,9 @@ Button funktion:
 >(Requires Network Creator Security + Network Creator or Network Steering plugin to function properly in Zigbee 3.0 networks.  Else, Network Find plugin is strongly recommended but not mandatory.)  This code will hook up button 0 to have specific behavior based on the current network state.  The behavior is as follows. If the device is not joined to a network, it will form a Zigbee 3.0 network (via Network Creator plugin) if it is configured as a coordinator or join a Zigbee 3.0 or ZHA legacy network (via Network Steering plugin) if it is configured as a router. If the device is joined to a network then pressing the button will broadcast a ZDO permit join to allow new devices to join.  Holding the button for 5 seconds and releasing will cause the device to leave the network.  Button 1 is not used and a callback is provided to another module wishing to use it.
 
 ## Six ten
-Mullti rail with GP (50 devices) and NVM3 with 127 TC link keys EZSP 6.10.3.0.
+Mullti rail with GP (50 devices) and NVM3 with 127 TC link keys EZSP 6.10.3.0.   
+Also updated with 6.10.7 both HA and SW and the last is having PTI and the first  not then  the same pins in being used for HW.  
+I was updating with WSDK and was erasing the NVM but ZHA was restroing it after some problems and my production network looks working well after some minutes and i keep looking on it for some days. 
 
 ## ZBCB 6.9.2.0
 One Zigbee Control Bridge with EP 1 is one Control Bridge and EP 2 is one Color Dimmebal Light.
