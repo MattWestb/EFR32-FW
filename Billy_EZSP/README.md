@@ -71,4 +71,4 @@ RCP 4.2.1.0 uploaded, i using 115K NF and 230K HW and looks working OK on Billy.
 Udated RCP 4.2.2.0 that looks working OK and is using the same RCP protocol version (V3) as 4.2.1.0 and both is working with addon 1.0.1 and 1.0.2.   
   
 Udated RCP 4.3.0.0    
-And RCP 4.3.1.0 (Woeks great with latest HA addon !!!)
+And RCP 4.3.1.0 (Woeks great with latest HA addon and it getting EZSP 7.3.1.0 in ZHA !!!)
