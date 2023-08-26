@@ -4,7 +4,7 @@ Configuration Parameter | Value | Pin/Pad
 -- | -- | --
 Module | tuya | TYZS4
 Part | EFR32MG1B232F256GM48-D
-Version | EZSP 6.10.3.0
+Version | EZSP 6.10.3.0 / 6.10.7.0
 Status |  Minimal tested
 Address Table Size | 8 | ST
 Child Table Size | 32 | ST
@@ -46,6 +46,8 @@ ADDRESS_TABLE_SIZE | 64
 
 For not running out of flash and RAM is the NVM3 pages and APS_UNICAST_MESSAGE_COUNT redues for fitting in the hardware.  
 Parametes not changed is left at defalt valiue.  
+
+Have posting the later EZSP 6.10.7.0 and our Danish firends have reporting its working well but its not well tested but many bugs and security fixes is in it so recomended for testing and is canidate for stable firmware for the ZBGW.
   
 ## RCP 4.2.0.0
 Booting OK and can connecting with USF but not tested with HA addon.  
