@@ -52,3 +52,4 @@ Have posting the later EZSP 6.10.7.0 and our Danish firends have reporting its w
 ## RCP 4.2.0.0
 Booting OK and can connecting with USF but not tested with HA addon.  
 If getting problem you is likely need erasing the flash (with SWD) and flashing new bootloader and APP for recover so be carful !!
+I have RCP 4.3.1.0 up and running for some week on my Billis and shall trying cooking one more time for theis module but its coming later and i posting then i have somthing for testing (SWD probe needed for the first round if not working).
