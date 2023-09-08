@@ -39,7 +39,8 @@ Button funktion:
 ## Six ten
 Mullti rail NCP with GP (50 devices) and NVM3 with 127 TC link keys EZSP 6.10.3.0. and 6.10.7.   
 The 6.10.7 both HW and SW and the last is having PTI and the first one not then the same pins in being used for HW.   
-I was updating with WSDK and was erasing the NVM but ZHA was restroing it after some problems and my production network looks working well after some minutes and i keep looking on it for some days.  Up and running in production system for some day and looks being OK !!
+I was updating with WSDK and was erasing the NVM but ZHA was restroing it after some problems and my production network looks working well after some minutes and i keep looking on it for some days.  Up and running in production system for some weeks and looks being OK !!   
+EZSP 6.10.8.0 with new bootloader (1.12.4) that shall being fixed and is ZERO tested. 
 
 ## ZBCB 6.9.2.0
 One Zigbee Control Bridge with EP 1 is one Control Bridge and EP 2 is one Color Dimmebal Light.
