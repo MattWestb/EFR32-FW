@@ -47,7 +47,8 @@ ADDRESS_TABLE_SIZE | 64
 For not running out of flash and RAM is the NVM3 pages and APS_UNICAST_MESSAGE_COUNT redues for fitting in the hardware.  
 Parametes not changed is left at defalt valiue.  
 
-Have posting the later EZSP 6.10.7.0 and our Danish firends have reporting its working well but its not well tested but many bugs and security fixes is in it so recomended for testing and is canidate for stable firmware for the ZBGW.
+Have posting the later EZSP 6.10.7.0 and our Danish firends have reporting its working well but its not well tested but many bugs and security fixes is in it so recomended for testing and is canidate for stable firmware for the ZBGW.  
+EZSP 6.10.8.0 with new bootloader (1.12.4) that shall being fixed and is ZERO tested.  
   
 ## RCP 4.2.0.0
 Booting OK and can connecting with USF but not tested with HA addon.  
